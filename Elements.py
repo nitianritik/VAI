@@ -18,6 +18,10 @@ def speak(audio):
     engine.say(" , "+audio)
     print(audio)
     # engine.runAndWait()
+    
+    
+    
+    
 
 
 question_elements = {"where", "how", "when", "how", "what"}
