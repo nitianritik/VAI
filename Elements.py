@@ -369,7 +369,7 @@ def switch_tab(query):
 '''
 
 def weather_report():
-  api_key = "6568cf3ecfd4eba82131100bd3793971"  # Enter the API key you got from the OpenWeatherMap website
+  api_key = ""  # Enter the API key you got from the OpenWeatherMap website
   base_url = "http://api.openweathermap.org/data/2.5/weather?"
   try:
       city_name = "bhopal"
